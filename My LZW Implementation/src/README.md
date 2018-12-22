@@ -14,6 +14,13 @@ Execution:
 
     java LZW + < input.txt   (expand)
 
+    OR
+
+    java MyLZW - < input.txt   (compress)
+
+    java MyLZW + < input.txt   (expand)
+    
+
 
 **Contact Information** 
 
