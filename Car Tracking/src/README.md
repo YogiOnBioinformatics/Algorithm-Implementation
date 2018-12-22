@@ -1,15 +1,15 @@
 # Classes for Application 
 
-The following classes are all necessary for usage in the CarTracking application. The "cars.txt" file loads in an initial set of cars that are used by the CarTracker. The initial set of cars can be modified. 
+The following classes are all necessary for usage in the CarTracking application. The `cars.txt` file loads in an initial set of cars that are used by the CarTracker. The initial set of cars can be modified. 
 
 **Compilation** 
 
-javac *.java
+    javac *.java
 
 
 **Execution** 
 
-java CarTracker
+    java CarTracker
 
 **Contact Information** 
 
