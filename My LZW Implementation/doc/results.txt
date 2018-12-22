@@ -1,0 +1,17 @@
+NOTE: under each implementation for any file there are 2 numbers on each line. The first number is the originial file size (in KB) and the second one is the compression ratio.
+
+File_Name	Originial Size (in KB)	LZW.java	MyLZW.java (Do Nothing) 	MyLZW.java (Reset)	MyLZW.java (Monitor)	Windows Compact
+all.tar			2960		1804, 1.641	1751, 1.690			1151, 2.572		1576, 1.878		1589.248, 1.863
+assig2.doc		85		73, 1.164	40, 2.125			40, 2.125		40, 2.125		36.864, 2.306
+bmps.tar		1080		904, 1.195	80, 13.5			80, 13.5		80, 13.5		155.648, 6.939
+code.txt 		71		31, 2.290	24, 2.958			24, 2.958		24, 2.958		32.768, 2.167
+code2.txt		71		24, 2.958	24, 2.958			24, 2.958		24, 2.958		28.672, 2.476
+edit.exe 		231		245, .943	153, 1.560			149, 1.550		153, 1.560		180.224, 1.282
+frosty.jpg		124		174, .713	160, .775			168, .738		160, .775		126.748, .978
+gone_fishin.bmp		17		10, 1.7		9, 1.889			9, 1.889		9, 1.889		16.384, 1.038
+large.txt 		1193		591, 2.019	491, 2.430			516, 2.312		496, 2.405		917.504, 1.300
+Lego-big.gif		92		126, .730	120, .75			120, .75		120, .75		93.371, .985
+medium.txt		25		13, 1.923	13, 1.923			13, 1.923		13, 1.923		20.480, 1.221
+texts.tar		1350		989, 1.365	584, 2.312			577, 2.340		565, 2.389		995.328, 1.356
+wacky.bmp		901		5, 180.2	4, 225.25			4, 225.25		4, 225.25		61.440, 14.665
+winnt256.bmp		154		156, .987	62, 2.484			62, 2.484		62, 2.484		86.016, 1.790
