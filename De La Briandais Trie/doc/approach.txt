@@ -1,0 +1,6 @@
+Approach
+
+My approach to implementing the Symbol Table involved using Java.util.HashMap. 
+I decided to use this because of how quick this data structure is. 
+In terms of asymptotic run-time statistics, the methods get() and put() which I used frequently ran in O(1). 
+Due to the speed of inputting and outputting data from this structure, I felt it to be the best for my project. 
