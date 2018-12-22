@@ -1,6 +1,6 @@
 # Car Tracking Application in Terminal 
 
-This application is made to be a GUI Terminal application that tracks cars. It is implemented in java. For instructions on usage, check the `src/` folder and the `/doc/` folder. For some more context of this project, check the `P3 Instructions.pdf` file that explains the purpose and requirements of the program. 
+This application is made to be a GUI Terminal application that tracks cars. For instructions on usage, check the `src/` folder and the `doc/` folder. For some more context of this project, check the `P3 Instructions.pdf` file that explains the purpose and requirements of the program. 
 
 **Contact Information** 
 
