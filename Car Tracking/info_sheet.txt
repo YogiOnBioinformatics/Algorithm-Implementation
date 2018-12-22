@@ -1,0 +1,53 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Yogindra Raghav
+
+Lecture section:  D
+
+Recitation day and time:  Friday 12:00PM	
+
+Assignment #:  3
+
+Program due date:  March 23rd, 2018
+
+Handed in date:  March 21st, 2018
+
+Source code file name(s):
+CarTracker.java
+
+
+
+
+
+
+Other file name(s) (if relevant):
+Car.java
+cars.txt
+documentation.txt
+IndexMinPQ.java
+
+
+Does your program run without error?: Yes, no issues 
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:		No issues 
+			
+
+
+
+
+
+Additional comments to the grader:
+
+No comments 
+
+
+
+
+
