@@ -1,0 +1,57 @@
+========================================
+CS/COE 1501 Assignment Information Sheet
+----------------------------------------
+
+You must submit an information sheet with every assignment.  Also be sure
+to submit all materials following the procedures described on the
+submission procedures page.
+
+Name:  Yogindra Raghav  
+
+Lecture section:  D
+
+Recitation day and time:  Friday 12:00PM
+
+Assignment #:  5
+
+Program due date:  4/20/2018
+
+Handed in date:  4/20/2018
+
+Source code file name(s):
+RsaKeyGen.java, RsaSign.java, LargeInteger.java
+
+
+
+
+
+
+Other file name(s) (if relevant):
+
+
+
+
+
+
+
+Does your program run without error?: There are errors
+
+If not, what is/are the error(s) and which parts of your program run
+correctly?:
+
+1) I did a lot of work to find the modular exponentiation but it did not end up working so I had to use BigInteger! PLEASE UNDERSTAND I DID PUT A LOT OF EFFORT INTO IT! 
+
+2) I'm not sure if "e" is necessarily correctly generated
+
+3) It seems that certain files should be verified by signature but they come up as not being matched!
+
+
+
+Additional comments to the grader:
+
+Thanks for everything this year! I hope you realize the amount of work I've put into this project. My code is there even if it's commented out so I hope you are not too harsh! Thanks very much! 
+
+
+
+
+
