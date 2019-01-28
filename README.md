@@ -1,6 +1,6 @@
 # Algorithm Implementation (CS1501, University of Pittsburgh) 
 
-This repository contains projects done by me during the University of Pittsburgh undergraduate course Algorithm Implementation (CS1501). The projects that were done cover a variety of topics. Check out each of the folders. This folder also contains Essays that were written about computer science topics. 
+This repository contains projects done by me during the University of Pittsburgh undergraduate course Algorithm Implementation (CS1501). The projects that were done cover a variety of topics. Check out each of the folders. This repository also contains Essays that were written about computer science topics. 
 
 **Contact Information** 
 
